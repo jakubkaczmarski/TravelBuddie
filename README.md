@@ -14,3 +14,20 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# TravelThingy
+Travel Help app
+
+
+
+
+
+
+
+
+
+
+Our Workflow in the nutshell
+
+
+![giphy](https://user-images.githubusercontent.com/61906394/140613783-6aec2e09-f276-403f-8ccc-1092972913f9.gif)
