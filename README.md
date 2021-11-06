@@ -1,4 +1,4 @@
-# TravelBuddie
+# TravelThingy
 Travel Help app
 
 
