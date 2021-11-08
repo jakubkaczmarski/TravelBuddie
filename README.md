@@ -22,6 +22,7 @@ Travel Help app
 
 With chatbot called TravelDucky that will always help you
 
+![giphy (1)](https://user-images.githubusercontent.com/61906394/140788587-059b058c-ed53-40d0-be76-73621b0e2c85.gif)
 
 
 
