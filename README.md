@@ -1,6 +1,8 @@
-# travelthingy
+# Travelthingy
 
 A new Flutter project.
+
+
 
 ## Getting Started
 
@@ -18,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # TravelThingy
 Travel Help app
 
+With chatbot called TravelDucky that will always help you
 
 
 
